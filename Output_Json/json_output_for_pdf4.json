@@ -1,0 +1,42 @@
+[
+  {
+    "pdf_file": "Report_4.pdf",
+    "page_number": 1,
+    "project_name": "Mangaroon Gold Project",
+    "context_sentence": "Dreadnought Resources Ltd Dreadnought is pleased to announce the completion of drilling at the 100 owned Mangaroon Gold Project Mangaroon, in the Gascoyne region of WA.",
+    "coordinates (lat,long)": [
+      -23.868429,
+      115.748901
+    ]
+  },
+  {
+    "pdf_file": "Report_4.pdf",
+    "page_number": 2,
+    "project_name": "Mangaroon Project",
+    "context_sentence": "au ASXDRE Dreadnought Resources Ltd 2 Overview of Drilling Program 100, First right to develop with Black Cat Syndicate Ltd Black Cat Mangaroon Gold consists of 5 mining and 3 exploration leases covering 130 km2 of the 5,000km2 Mangaroon Project located 330km by road from Black Cats Paulsens Gold Operation in the Gascoyne Region of WA.",
+    "coordinates (lat,long)": [
+      -23.916201,
+      115.622803
+    ]
+  },
+  {
+    "pdf_file": "Report_4.pdf",
+    "page_number": 9,
+    "project_name": "Star of Mangaroon",
+    "context_sentence": "au ASXDRE Dreadnought Resources Ltd 9 Dreadnoughts planned transition to self-funded explorer Mar 2025 Quarter Jun 2025 Quarter Sep 2025 Quarter Dec 2025 Quarter Star of Mangaroon Open Pit Study Mine, haul, process agreements Approvals and commencement of production Additional Gold Drilling Mining Leases including Star of Mangaroon extensions, Popeye, Pritchards, Lead, Two Peaks, McCarthy Workings.",
+    "coordinates (lat,long)": [
+      -23.87,
+      115.75
+    ]
+  },
+  {
+    "pdf_file": "Report_4.pdf",
+    "page_number": 4,
+    "project_name": "Star of Mangaroon gold mine",
+    "context_sentence": "au ASXDRE Dreadnought Resources Ltd 4 Popeye Popeye is located 500m south of the Star of Mangaroon gold mine and was discovered while sinking a shaft for a water supply to the mine.",
+    "coordinates (lat,long)": [
+      -23.87,
+      115.75
+    ]
+  }
+]

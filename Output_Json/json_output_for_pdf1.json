@@ -1,0 +1,53 @@
+[
+  {
+    "pdf_file": "Report_1.pdf",
+    "page_number": 1,
+    "project_name": "Lake Hope High Purity Alumina HPA Project",
+    "context_sentence": "Impact Minerals Limited ASXIPT is pleased to announce the positive results of a Preliminary Feasibility Study PFS for the Companys Lake Hope High Purity Alumina HPA Project, located 500 km southeast of Perth in the Tier 1 mining jurisdiction of Western Australia.",
+    "coordinates (lat,long)": null
+  },
+  {
+    "pdf_file": "Report_1.pdf",
+    "page_number": 7,
+    "project_name": "Kwinana",
+    "context_sentence": "Power for the Kwinana refinery will be 70 renewable by 2040, subject to the West Australian state government fully implementing the Whole of System plan WoSP.",
+    "coordinates (lat,long)": [
+      -32.2295,
+      115.7649
+    ]
+  },
+  {
+    "pdf_file": "Report_1.pdf",
+    "page_number": 8,
+    "project_name": "Key Project",
+    "context_sentence": "Key Project Financial Metrics Parameter Units Outcome Average annual ore mining rate dmt 54,300 Life of mine LOM years 33 4N HPA Production LOM t 323,640 Average annual production of 4N HPA t 10,000 Revenue 4N HPA excluding by-product credits AUD t 35,484 Revenue LOM AUD M 11,484 Post-tax NPV10 real AUD M 1,165.",
+    "coordinates (lat,long)": [
+      57.20753,
+      -105.70027
+    ]
+  },
+  {
+    "pdf_file": "Report_1.pdf",
+    "page_number": 23,
+    "project_name": "Lake Hope HPA Project",
+    "context_sentence": "Location of the Lake Hope HPA Project.",
+    "coordinates (lat,long)": null
+  },
+  {
+    "pdf_file": "Report_1.pdf",
+    "page_number": 34,
+    "project_name": "Playa One",
+    "context_sentence": "The flowsheet is based on the Playa One Low-temperature Leach LTL process, which has produced 4N HPA at bench scale ASX Release February 27th 2024.",
+    "coordinates (lat,long)": [
+      -32.45,
+      118.86
+    ]
+  },
+  {
+    "pdf_file": "Report_1.pdf",
+    "page_number": 70,
+    "project_name": "Hexagons Project",
+    "context_sentence": "Pit optimisation was undertaken in Hexagons Project Evaluator software to assess the resource economics and sensitivities with and without Inferred mineralisation, as well as to assess varying cut-of grades to validate the 25 Al2O3 mine design strategy.",
+    "coordinates (lat,long)": null
+  }
+]
