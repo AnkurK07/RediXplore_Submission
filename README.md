@@ -33,7 +33,7 @@ git clone https://github.com/AnkurK07/RediXplore_Submission.git
 pip install -r requirements.txt
 ```
 
-### 3. Load finetuned model from huggingface , set up llms , search tools and run this python module.
+#### 3. Load finetuned model from huggingface , set up llms , search tools and run this python module.
 ```
 python intelligent_pipeline.py
 ```
