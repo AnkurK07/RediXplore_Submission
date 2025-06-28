@@ -1,0 +1,42 @@
+# I used these libraries throughout my projects
+
+# Core Transformers and Token Classification 
+transformers==4.53.0
+tokenizers==0.21.0
+datasets==3.6.0
+evaluate==0.4.4
+seqeval==1.2.2
+peft==0.15.2
+accelerate==1.8.1
+
+# PDF Processing
+PyMuPDF==1.26.1
+pypdf==5.1.0
+
+# Utilities and Preprocessing
+tqdm==4.67.1
+regex==2024.11.6
+pandas==2.0.2
+numpy==1.26.4
+scikit-learn==1.7.0
+
+# LangChain Ecosystem
+langchain==0.3.26
+langchain-core==0.3.66
+langchain-openai==0.3.27
+langchain-tavily==0.2.4
+langchain-cerebras==0.5.0
+langchain-groq==0.1.9
+langchain-community==0.3.26
+langsmith==0.4.4
+
+# Web/LLM integration
+openai==1.93.0
+tavily-python==0.7.8
+httpx==0.28.1
+requests==2.32.3
+
+
+# Coordinate & Geolocation Parsing
+geopy==2.4.1 
+
